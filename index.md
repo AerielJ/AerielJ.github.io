@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ePortfolio Links
 - [Software Design and Engineering Enhancement](https://aerielj.github.io/SoftwareDesignAndEngineering.html)
-- [Databases Enhancement](https://aerielj.github.io/DatabasesEnhancement.md)
+- [Databases Enhancement](https://aerielj.github.io/DatabasesEnhancement.html)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
