@@ -8,7 +8,7 @@ The course outcome I had planned to meet with this enhancement was, “Demonstra
 The preliminary work I completed for the Pet BAG application in IT 145 taught me a lot about object-oriented programming principles and concepts like classes, objects, encapsulation, and inheritance. During the process of enhancing the application, I learned a lot about how to implement those principles and concepts in C++. I learned that class code is often separated into two separate files in C++. I also learned that creating classes for managing vectors of objects can help make the code in main shorter and clearer. The biggest challenge I faced during the process of enhancing this artifact was decision making. In software development, there are many different ways to accomplish the same tasks. I found myself agonizing over all of the different ways I could create the Pet BAG application’s check-in method. I spent a lot of time questioning my decisions and trying different things. This made the enhancements take longer than I anticipated. 
 
 ### Link to code repository 
-
+[PetBAG Application code](https://github.com/aerielj/petbagapplication)
 
 ### ePortfolio Links
 - [Professional Assesment](https://aerielj.github.io/index.html)
