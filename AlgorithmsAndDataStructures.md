@@ -10,7 +10,7 @@ The course outcome I had planned to meet with this enhancement was, “Design an
 During the process of enhancing the Pet BAG application, I learned more about working with C++ Standard Library algorithm functions. Before working on these enhancements, I would often write custom loops for searching data structures. While researching ways to find specific elements in a vector of objects, I discovered standard library algorithm functions, like find and find_if. Using standard library functions like these allow common operations like searching, counting, and sorting to be achieved in fewer lines of code. I also learned about ways to remove elements from a vector. I had plenty of experience in adding elements to vectors, but none in removing elements from vectors. In fact, the biggest challenge I faced during the process of enhancing this artifact was deciding the best way to go about removing specific elements from the vectors of class objects I created. I settled on using find_if to find the iterator to a specific object in the vector, and then passing it to the standard vector erase function to remove it. 
 
 ### Link to code repository 
-[PetBAG Application code](https://github.com/aerielj/petbagapplication)
+[Pet BAG Application Code](https://github.com/aerielj/petbagapplication)
 
 
 ### ePortfolio Links
