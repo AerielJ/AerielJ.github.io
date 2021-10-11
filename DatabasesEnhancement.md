@@ -15,6 +15,6 @@ While creating the Inventory App, I learned how to apply user-centered design pr
 
 
 ### ePortfolio Links
-- [Professional Assesment](https://aerielj.github.io/index.html)
+- [Professional Self-Assessment](https://aerielj.github.io/index.html)
 - [Software Design and Engineering Enhancement](https://aerielj.github.io/SoftwareDesignAndEngineering.html)
 - [Algorithms and Data Structures Enhancement](https://aerielj.github.io/AlgorithmsAndDataStructures.html)
