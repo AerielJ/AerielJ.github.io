@@ -2,9 +2,7 @@
 
 
 ### Introduction
-I have been in the Computer Science program at Southern New Hampshire University since October 2018. While in the program, I learned many techniques, practices, languages, and concepts relevant to computer science career fields. The three concepts or skills that I find most important are programming languages, secure coding, and the software development life cycle. During my studies, I worked with several programming languages, including Python, Java, C++, SQL, and Assembly Language. I learned how to identify common security vulnerabilities and write secure code to mitigate risks to software and data. I explored the stages of the Software Development Lifecycle and practiced working in an agile development environment. 
-
-I am looking for a future career in software development. Software development falls under the general umbrella of computer science. My career goal is to become a software developer. To support this goal, I plan to earn a master’s degree in software development. While I study for my degree, I aim to gain experience through an internship or entry-level developer job and obtain certifications to help boost my credentials. I am targeting to specialize in application development, but I am also interested in security development. 
+I have been in the Computer Science program at Southern New Hampshire University since October 2018. I am now in the process of completing my final course, CS 499 Computer Science Capstone, and obtaining a bachelor’s degree in Computer Science. My career goal is to become a software developer. In addition to earning my bachelor’s degree in Computer Science, I plan to support this goal by gaining experience through an internship or entry-level developer job and obtaining certifications to boost my credentials. I am targeting to specialize in application development, but I am also interested in security development. I have created this ePortfolio to showcase the skills and knowledge I have obtained throughout the Computer Science program and demonstrate my strengths in the computer science field.
 
 ### Professional Self-Assessment
 
