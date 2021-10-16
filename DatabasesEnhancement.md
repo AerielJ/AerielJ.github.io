@@ -11,6 +11,11 @@ The course outcome I had planned to meet with this enhancement was, “Develop a
 
 While creating the Inventory App, I learned how to apply user-centered design principles and industry standards to develop mobile applications. I learned how to identify the characteristics and goals of users, how to design screens and navigation mechanisms with users in mind, and how to create designs that meet the Android Design and Quality Guidelines. The biggest challenge I faced while developing the Inventory App was figuring out how to develop the code for the navigation drawer. Midway through development, I learned that the easiest way to add a navigation drawer was by using fragments. However, I had already created activities for each of my screens. If I wanted to implement the navigation drawer using fragments, I would have had to start over. So, I searched for a different way and found the ActionBarDrawerToggle class. With this class, I was able to figure out how to make the navigation drawer work with activities instead of fragments. During the process of enhancing the Inventory App, I learned how to apply secure code practices in Java. I recently completed the CS: 405 Secure Coding course where I learned secure coding practices and how to identify common security vulnerabilities like SQL injection. However, the code we studied and worked with in the course was written in the C++ programming language. While enhancing the Inventory App to protect it against SQL injection, I learned how to use the secure coding practices that I learned in CS 405 while working with the Java programming language. 
 
+<p align="center">
+  Reference
+ </p>
+ Mohindra, D. (2021). IDS00-J. Prevent SQL injection. SEI CERT Oracle Coding Standard for Java - Confluence. https://wiki.sei.cmu.edu/confluence/display/java/IDS00-J.+Prevent+SQL+injection.
+
 ### Link to code repository
 [Inventory App Code](https://github.com/aerielj/inventoryapp)
 
