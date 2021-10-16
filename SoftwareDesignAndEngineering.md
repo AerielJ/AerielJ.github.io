@@ -12,5 +12,6 @@ The preliminary work I completed for the Pet BAG application in IT 145 taught me
 
 ### ePortfolio Links
 - [Professional Self-Assessment](https://aerielj.github.io/index.html)
+- [Code Review](https://aerielj.github.io/CodeReview.html)
 - [Algorithms and Data Structures Enhancement](https://aerielj.github.io/AlgorithmsAndDataStructures.html)
 - [Databases Enhancement](https://aerielj.github.io/DatabasesEnhancement.html)
