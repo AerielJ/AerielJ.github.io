@@ -21,7 +21,7 @@ The second artifact I have included in my ePortfolio is the final project from m
  *Software Developer*. (2021, May 5). ComputerScience.org. https://www.computerscience.org/careers/software-developer/.
 
 ### ePortfolio Links
-- [Informal Code Review](https://aerielj.github.io/CodeReview.html)
+- [Code Review](https://aerielj.github.io/CodeReview.html)
 - [Software Design and Engineering Enhancement](https://aerielj.github.io/SoftwareDesignAndEngineering.html)
 - [Algorithms and Data Structures Enhancement](https://aerielj.github.io/AlgorithmsAndDataStructures.html)
 - [Databases Enhancement](https://aerielj.github.io/DatabasesEnhancement.html)
