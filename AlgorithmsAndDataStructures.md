@@ -15,5 +15,6 @@ During the process of enhancing the Pet BAG application, I learned more about wo
 
 ### ePortfolio Links
 - [Professional Self-Assessment](https://aerielj.github.io/index.html)
+- [Code Review](https://aerielj.github.io/CodeReview.html)
 - [Software Design and Engineering Enhancement](https://aerielj.github.io/SoftwareDesignAndEngineering.html)
 - [Databases Enhancement](https://aerielj.github.io/DatabasesEnhancement.html)
