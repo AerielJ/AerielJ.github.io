@@ -14,7 +14,7 @@ While creating the Inventory App, I learned how to apply user-centered design pr
 <p align="center">
   Reference
  </p>
- Mohindra, D. (2021). IDS00-J. Prevent SQL injection. SEI CERT Oracle Coding Standard for Java - Confluence. https://wiki.sei.cmu.edu/confluence/display/java/IDS00-J.+Prevent+SQL+injection.
+ Mohindra, D. (2021, August 6). IDS00-J. Prevent SQL injection. SEI CERT Oracle Coding Standard for Java - Confluence. https://wiki.sei.cmu.edu/confluence/display/java/IDS00-J.+Prevent+SQL+injection.
 
 ### Link to code repository
 [Inventory App Code](https://github.com/aerielj/inventoryapp)
